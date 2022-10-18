@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fzoltan\\source\\repos\\TestApplication\\TestApplication\\TestApplication.csproj",
+      "projectUniqueName": "C:\\Users\\fzoltan\\Source\\Repos\\TestRepo\\TestApplication\\TestApplication.csproj",
       "projectName": "TestApplication",
-      "projectPath": "C:\\Users\\fzoltan\\source\\repos\\TestApplication\\TestApplication\\TestApplication.csproj",
+      "projectPath": "C:\\Users\\fzoltan\\Source\\Repos\\TestRepo\\TestApplication\\TestApplication.csproj",
       "packagesPath": "C:\\Users\\fzoltan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\fzoltan\\source\\repos\\TestApplication\\TestApplication\\obj\\",
+      "outputPath": "C:\\Users\\fzoltan\\Source\\Repos\\TestRepo\\TestApplication\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fzoltan\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -61,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.304\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.402\\RuntimeIdentifierGraph.json"
       }
     }
   }

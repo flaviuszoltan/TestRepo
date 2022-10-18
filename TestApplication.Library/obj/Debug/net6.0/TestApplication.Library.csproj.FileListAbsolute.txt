@@ -10,3 +10,15 @@ C:\Users\fzoltan\source\repos\TestApplication\TestApplication.Library\obj\Debug\
 C:\Users\fzoltan\source\repos\TestApplication\TestApplication.Library\obj\Debug\net6.0\refint\TestApplication.Library.dll
 C:\Users\fzoltan\source\repos\TestApplication\TestApplication.Library\obj\Debug\net6.0\TestApplication.Library.pdb
 C:\Users\fzoltan\source\repos\TestApplication\TestApplication.Library\obj\Debug\net6.0\ref\TestApplication.Library.dll
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\bin\Debug\net6.0\TestApplication.Library.deps.json
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\bin\Debug\net6.0\TestApplication.Library.dll
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\bin\Debug\net6.0\TestApplication.Library.pdb
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\obj\Debug\net6.0\TestApplication.Library.csproj.AssemblyReference.cache
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\obj\Debug\net6.0\TestApplication.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\obj\Debug\net6.0\TestApplication.Library.AssemblyInfoInputs.cache
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\obj\Debug\net6.0\TestApplication.Library.AssemblyInfo.cs
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\obj\Debug\net6.0\TestApplication.Library.csproj.CoreCompileInputs.cache
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\obj\Debug\net6.0\TestApplication.Library.dll
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\obj\Debug\net6.0\refint\TestApplication.Library.dll
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\obj\Debug\net6.0\TestApplication.Library.pdb
+C:\Users\fzoltan\Source\Repos\TestRepo\TestApplication.Library\obj\Debug\net6.0\ref\TestApplication.Library.dll

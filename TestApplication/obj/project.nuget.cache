@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UHugOEkfzaWXcGO3ZMVy/L8y5rO5/8ElviRAwwhhRe/UA+/d3AXalBjRhNaVC058mCdNtJs33RhOAy8Sg2toQw==",
+  "dgSpecHash": "e8hP8yvLvuiXD9jkeypavupN7f/jQfDv+o6QuDujvOiaV1+smQGmLsjcoLJNYYXPD2D0Yh6F4P+3F2qgceiAIA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\fzoltan\\source\\repos\\TestApplication\\TestApplication\\TestApplication.csproj",
+  "projectFilePath": "C:\\Users\\fzoltan\\Source\\Repos\\TestRepo\\TestApplication\\TestApplication.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
