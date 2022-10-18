@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApplication", "TestAppl
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestApplication.Library", "TestApplication.Library\TestApplication.Library.csproj", "{0337FADE-3D40-4038-82F5-5F2907CE97DA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xunit.Test", "Xunit.Test\Xunit.Test.csproj", "{4EBCE34F-310B-4939-8EA3-6CD7A5BCAD68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xunit.Tests", "Xunit.Test\Xunit.Tests.csproj", "{4EBCE34F-310B-4939-8EA3-6CD7A5BCAD68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
