@@ -6114,9 +6114,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\fzoltan\\Source\\Repos\\TestRepo\\Xunit.Test\\Xunit.Test.csproj",
-      "projectName": "Xunit.Test",
-      "projectPath": "C:\\Users\\fzoltan\\Source\\Repos\\TestRepo\\Xunit.Test\\Xunit.Test.csproj",
+      "projectUniqueName": "C:\\Users\\fzoltan\\Source\\Repos\\TestRepo\\Xunit.Test\\Xunit.Tests.csproj",
+      "projectName": "Xunit.Tests",
+      "projectPath": "C:\\Users\\fzoltan\\Source\\Repos\\TestRepo\\Xunit.Test\\Xunit.Tests.csproj",
       "packagesPath": "C:\\Users\\fzoltan\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\fzoltan\\Source\\Repos\\TestRepo\\Xunit.Test\\obj\\",
       "projectStyle": "PackageReference",
